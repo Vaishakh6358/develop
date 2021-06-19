@@ -8,7 +8,6 @@ public class SampleController {
 
     @GetMapping
     public String get()
-    {
-        return "Hello everyone!";
+    { return "Hello everyone!";
     }
 }
